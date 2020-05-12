@@ -1,0 +1,14 @@
+{
+  "name": "Cracked Repo",
+  "indentifier": "com.CrackedRepo.AltStore",
+  "apps": [
+    "name": "Spotify++",
+    "subtitle": "Spotify Premium free.",
+    "bundleIdentifier": "com.spotify.client",
+    "developerName": "JulioVerne",
+    "version": "8.5.2",
+    "downloadURL": "https://www96.zippyshare.com/d/98BmjFcY/19656/Spotify_8.5.2_100a.ipa"
+
+  ]
+
+}

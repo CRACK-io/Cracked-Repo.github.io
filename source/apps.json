@@ -3,15 +3,18 @@
   "indentifier": "com.crackedrepo.AltStore",
   "sourceURL": "https://cracked-repo.github.io/source/apps.json",
   "apps": [
-    "name": "Spotify++",
-    "subtitle": "Spotify Premium free.",
-    "bundleIdentifier": "com.spotify.client",
-    "developerName": "JulioVerne",
-    "version": "8.5.2",
-    "versionDate": "2020-05-12T12:00:00-00:00",
-    "downloadURL": "https://www96.zippyshare.com/d/98BmjFcY/19656/Spotify_8.5.2_100a.ipa",
-    "iconURL": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-transparent-spotify-logo-images-25.png",
-    "size": "30445568";
+    {
+      "name": "Spotify++",
+      "subtitle": "Spotify Premium free.",
+      "bundleIdentifier": "com.spotify.client",
+      "developerName": "JulioVerne",
+      "version": "8.5.2",
+      "versionDate": "2020-05-12T12:00:00-00:00",
+      "downloadURL": "https://www96.zippyshare.com/d/98BmjFcY/19656/Spotify_8.5.2_100a.ipa",
+      "iconURL": "https://www.freepnglogos.com/uploads/spotify-logo-png/spotify-logo-transparent-spotify-logo-images-25.png",
+      "size": "30445568";
+    },
+
 
   ],
 
